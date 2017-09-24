@@ -1,1 +1,2 @@
 Branch file
+Using –a command for commeting file which is in already index area.

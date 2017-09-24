@@ -1,1 +1,2 @@
 Second branch file
+Doing rebasing file from branch to master 
